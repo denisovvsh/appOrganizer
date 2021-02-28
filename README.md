@@ -1,14 +1,14 @@
 # Install
 
-ng new appOrganizer
-ng g c calendar --module app --skipTests
-ng g c selector --module app --skipTests
-ng g c organizer --module app --skipTests
-ng g s shared/date --skipTests
-ng g s shared/tasks --skipTests
-npm i moment
-Create new project on https://console.firebase.google.com/u/0/?consoleUI=FIREBASE
-Create new databse https://ngapporganizer-default-rtdb.firebaseio.com/
+* ng new appOrganizer
+* ng g c calendar --module app --skipTests
+* ng g c selector --module app --skipTests
+* ng g c organizer --module app --skipTests
+* ng g s shared/date --skipTests
+* ng g s shared/tasks --skipTests
+* npm i moment
+* Create new project on https://console.firebase.google.com/u/0/?consoleUI=FIREBASE
+* Create new databse https://ngapporganizer-default-rtdb.firebaseio.com/
 
 # AppOrganizer
 
