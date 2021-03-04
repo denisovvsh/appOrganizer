@@ -1,5 +1,9 @@
 # Install
-
+* git clone
+* go to the root folder
+* npm install
+* npm run build
+## OR
 * ng new appOrganizer
 * ng g c calendar --module app --skipTests
 * ng g c selector --module app --skipTests
